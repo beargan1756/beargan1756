@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bear Gan</h1>
-<h3 align="center">Still new in it field</h3>
+<h3 align="center">Still new in IT field</h3>
 
 - 🌱 I’m currently learning **LINUX, SandBox**
 
