@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bear Gan</h1>
-<h3 align="center">Still new in programming</h3>
+<h3 align="center">Still new in it field</h3>
 
-- 🌱 I’m currently learning **ASP.NET, Python**
+- 🌱 I’m currently learning **LINUX, SandBox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
